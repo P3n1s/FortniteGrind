@@ -47,10 +47,10 @@ Sleep, 100
 WalkForward(800)
 MouseLeft(1300)
 MouseDown(200)
-MouseRight(70)
+;MouseRight(70)
 ; --------- 5. OG: Ammo-Box Balkon
 OpenBox()
-MouseLeft(1600)
+MouseLeft(1530)
 WalkForward(2500)
 MouseLeft(650)
 ; --------- 5. OG: Truhe in Ecke
